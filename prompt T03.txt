@@ -1,0 +1,11 @@
+GPT
+1. nomor 3 kami di suruh untuk membuat sebuah sistem yang dapat mendukung operasional sehari hari di Del, maka sistem yang saya harapkan adalah sistem informasi laundry del berbasis pbo yg bertujuan untuk membantu bahasiswa lebih mudah dalam list laundry yang selama ini digunakan secara manual yaitu menulis di kertas, kira kira melalui cerita itu apa yang sebaik nya di lakukan yang sesuai dengan tema mendukung operasional sehari hari di Del dan berbasis PBO kembangkan
+2. pembayaran di lakukan saat mahasiswa membayar bursar maka mahasiswa hanya me list pakaian apa saja,lalu membuat kertas tsb di laundry bag dari cerita tsb apa masalah yang bisa di angkat yg berhubungan dengan PBO
+3. mahasiswa tidak lagi melakukan pembayaran,yg di lakukan mahasiswa hanya melist pakaian apa saja yang ada di dalam laundry bag lalu setelah itu di antarakan melalui petugas dan petugas melakukan progres laundry kemudian setelah selesai mengembalikan laundry dalam keadaan bersih ke mahasiswa/ke asrama nah apa sistem yang bisa digunakan untuk membantu operasional laundry di del
+4. sertakan input yang di butuhkan 
+5. public class Driver3 {
+    }
+    di awali dengan ini 
+6. kode error,jelaskan mengapa terjadi error?
+7. tidak di perlukan harga,buat sistem untuk melaporkan laundry tidak lengkapp jadi mahasiswa ingin komplain dengan mengirimkan tidak ada nya barang dengan detail,nama,nim,asrama
+8. 

@@ -1,0 +1,13 @@
+GPT
+1. Bisa bantu saya membangun kodenya secara bertahap? Mohon jelaskan logika di balik setiap barisnya sambil kita susun, agar saya tidak hanya mendapatkan hasil jadinya saja, tapi juga paham alur eksekusinya.(memberikan soal)
+2. awali dengan public class Driver2 {
+    
+    }
+3. apa rumus yang di gunakan untuk program kali ini?
+4. Input:
+    1.	Jumlah total data (N).
+    2.	Deret nilai (n1, n2, …, n).
+    3.	Kode kelompok siswa
+    kode kelompok di sini maksud nya sebagai apa?
+5. mengapa terjadi error Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: Index 6 out of bounds for length 6 at Driver2.main(Driver2.java:26)
+

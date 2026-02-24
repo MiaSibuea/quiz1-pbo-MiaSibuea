@@ -1,0 +1,14 @@
+GPT
+1. Bisa bantu saya membangun kodenya secara bertahap? Mohon jelaskan logika di balik setiap barisnya sambil kita susun, agar saya tidak hanya mendapatkan hasil jadinya saja, tapi juga paham alur eksekusinya.
+2. jangan validasi jawaban atau asumsi saya, berikan jawaban yang tepat sesuai logika
+3. (menulis soal) saya akan menampilkan gambar setelah ini untuk mendukung pengerjaan kode nya
+4. berikan jawaban bertahap lengkap dengan penjelasan nya
+5.     solution java 
+    package model;
+
+    public class solution {
+    
+    }
+6. output harus sesuai dengan gambar yang telah saya berikan tadi, jangan memvalidasi asumsi saya
+7. maka untuk kode yang akan saya compile di driver1 adalah?
+8. maksud saya sesuai soal ini,(mengirim soal)
